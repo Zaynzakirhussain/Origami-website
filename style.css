@@ -31,6 +31,23 @@ p,h1,h2,h3{
     justify-content: center;
 }
 
+.links{
+    background-color: #000000;
+    padding: 30px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    border: solid;
+}
+
+a:link{
+    color:yellow;
+}
+
+a:visited{
+    color: white;
+}
+
 body{
     background-color: #eeeeee;
 }
